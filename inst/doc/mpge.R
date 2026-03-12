@@ -1,6 +1,6 @@
 ## ----install_package, eval=FALSE, collapse = TRUE-----------------------------
-#  #install.packages("MPGE")
-#  #library("MPGE")
+# #install.packages("MPGE")
+# #library("MPGE")
 
 ## ----load_pheno, collapse = TRUE----------------------------------------------
 library("MPGE")
